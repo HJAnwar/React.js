@@ -1,0 +1,21 @@
+.navbar{
+
+}
+nav{
+    line-height: 70px;
+    background-color: black;
+    
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    margin-left: 50px;
+    font-weight: border;
+
+}
+
+nav input{
+    margin-left: 130px;
+    width: 400px;
+
+}

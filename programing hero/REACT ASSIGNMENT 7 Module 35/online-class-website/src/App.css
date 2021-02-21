@@ -1,0 +1,11 @@
+.app{
+  display: flex;
+}
+.CartStyle2{
+  width: 60%;
+}
+.CartStyle{
+  width: 40%;
+  border-left: 1px solid black;
+  padding: 20px;
+}

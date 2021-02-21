@@ -1,0 +1,25 @@
+.userDiv{
+    margin: 10px;
+    margin-bottom: 55px;
+    border: 1 px solid black;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.568);
+    padding: 40px;
+    text-align: center;
+    width: 320px;
+    height: 350px;
+    border-radius: 5px;
+    background-color: white;
+}
+.userDiv img{
+    border-radius: 50%;
+    padding: 10px;
+}
+.userDiv button{
+    border: none;
+    width: 140px;
+    height: 40px;
+    background-color: aqua;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 15px;
+}

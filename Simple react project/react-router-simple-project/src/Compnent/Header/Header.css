@@ -1,0 +1,14 @@
+nav{
+    line-height: 70px;
+    background-color: blue;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    margin-left: 5%;
+    font-weight: border;
+}
+.header{
+    margin-bottom: 5%;
+    
+}

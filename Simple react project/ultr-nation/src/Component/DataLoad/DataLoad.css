@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(201, 246, 246);
+}
+.container{
+    display: flex;
+    margin-top: 70px;
+}
+
+.country{
+    width: 40%;
+    margin-left: 19%;
+    
+}
+.detail{
+    width: 40%;
+    margin-right: 15%;
+    margin-left: 5%;
+    background-attachment: fixed;
+    
+}
+.div{
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.411);
+    
+}
+button{
+    width: 200px;
+    height:40px;
+    border-radius:10px ;
+    background-color: rgb(226, 180, 64);
+    color: white;
+    border: none;
+    font: 40px;
+
+}

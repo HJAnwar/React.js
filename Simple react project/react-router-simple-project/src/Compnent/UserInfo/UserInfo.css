@@ -1,0 +1,18 @@
+.userStyle{
+    text-align: center;
+    width: 70%;
+    margin: 20px;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.376);
+    margin-left: 10%;
+}
+.userStyle button{
+    background-color: rgb(243, 243, 68);
+    width: 220px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+}

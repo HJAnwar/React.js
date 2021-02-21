@@ -1,0 +1,21 @@
+.cartCourse{
+    width: 350px;
+    height: 280px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-bottom: 40px;
+    
+}
+.cartCourse img{
+    width: 350px;
+    height: 160px;
+    border: none;
+}
+.cartCourse button{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(171, 250, 82);
+    border:none;
+    text-decoration: none;
+}
